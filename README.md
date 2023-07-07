@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Matias</h1>
+<h1 align="center">Hi 👋, I'm Matias Garay</h1>
 <h3 align="center">A passionate Web Developer, From Argentina 🇦🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mggaray&label=Profile%20views&color=0e75b6&style=flat" alt="mggaray" /> </p>
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mggaray&theme=gruvbox&column=4" alt="mggaray" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS**
@@ -14,6 +11,8 @@
 - 📫 How to reach me **📧: maty117@gmail.com, 📞: +54 3416186356**
 
 - 📄 Here's my portfolio! [https://mggaray.netlify.app/](https://mggaray.netlify.app/)
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mggaray&theme=dark" alt="mggaray" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
